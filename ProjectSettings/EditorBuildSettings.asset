@@ -23,4 +23,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/NarrativeHomeworkAssets/Scenes/Narrative_Level_1.unity
     guid: 4b43b97a7964c9044a2d94c16e348d8e
+  - enabled: 1
+    path: Assets/DuckAdventure/DuckMenu.unity
+    guid: 8428d40544ec95649a77df058bfb8d9f
+  - enabled: 1
+    path: Assets/DuckAdventure/grassy1.unity
+    guid: 39f8ef7286bed9240935a36092240f99
+  - enabled: 1
+    path: Assets/DuckAdventure/grassy2.unity
+    guid: 02415c959bf7637499244b480820124f
+  - enabled: 1
+    path: Assets/DuckAdventure/grassy3.unity
+    guid: 46fdb6667d0590c4fbb12e81cc43087d
+  - enabled: 1
+    path: Assets/DuckAdventure/grassy4.unity
+    guid: aaf2ac36782f84c4fbb40c56cc0bc694
+  - enabled: 1
+    path: Assets/DuckAdventure/grassy5.unity
+    guid: d1f4b67c0880da446b05ce6c545ea121
+  - enabled: 1
+    path: Assets/DuckAdventure/cloud1.unity
+    guid: 1985e812dba544248a828d981e130fa4
   m_configObjects: {}
