@@ -43,5 +43,14 @@ EditorBuildSettings:
     guid: d1f4b67c0880da446b05ce6c545ea121
   - enabled: 1
     path: Assets/DuckAdventure/cloud1.unity
+    guid: e68473ee85a1c37449ea6f1cce1b8e48
+  - enabled: 1
+    path: Assets/DuckAdventure/cloud2.unity
     guid: 1985e812dba544248a828d981e130fa4
+  - enabled: 1
+    path: Assets/DuckAdventure/cloud3.unity
+    guid: c9853cf0494aa14448460d22aab74782
+  - enabled: 1
+    path: Assets/DuckAdventure/cloud4.unity
+    guid: 1ca98c88a933a51438d2dd3231c7aeec
   m_configObjects: {}
