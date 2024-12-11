@@ -8239,7 +8239,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1118633687869557641, guid: 15d8728af54bbdd418bf61d770237d22, type: 3}
       propertyPath: nextLevel
-      value: cloud2
+      value: cloud5
       objectReference: {fileID: 0}
     - target: {fileID: 4226188107069461401, guid: 15d8728af54bbdd418bf61d770237d22, type: 3}
       propertyPath: m_Size.x
@@ -8762,7 +8762,7 @@ PrefabInstance:
     - target: {fileID: 8876226734821338570, guid: b855e4446e35b4d47978fa60cd14f465, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -2146717978, guid: fb8aff4da89b04a4291b74cd1b746c6b, type: 3}
+      objectReference: {fileID: 21300000, guid: 2559e8822c429a1438962068a6da7538, type: 3}
     m_RemovedComponents:
     - {fileID: 179467656384846032, guid: b855e4446e35b4d47978fa60cd14f465, type: 3}
     m_RemovedGameObjects: []
